@@ -10,6 +10,6 @@
   "customLogs": "stdout",
   "dataBaseName": "matrix-music",
   "executeSQLs": [
-    "CREATE DATABASE IF NOT EXISTS springboot_demo;"
+    "CREATE DATABASE IF NOT EXISTS matrix-music;"
   ]
 }
